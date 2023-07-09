@@ -1,3 +1,5 @@
+- [https://mp.weixin.qq.com/s/oeOfsgF-9IOoT5eQt5ieyw](https://mp.weixin.qq.com/s/oeOfsgF-9IOoT5eQt5ieyw)
+
 This README is just a fast *quick start* document. You can find more detailed documentation at [redis.io](https://redis.io).
 
 What is Redis?
